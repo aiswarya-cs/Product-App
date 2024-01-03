@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-head{
+    font-size: 25px !important;
+}
+.nav-head span{
+    color: orangered;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+
+}
